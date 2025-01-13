@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\architecture-Koray.props" />
+</Project>
